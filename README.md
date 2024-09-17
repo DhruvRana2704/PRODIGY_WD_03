@@ -10,6 +10,5 @@ Welcome to the Tic Tac Toe game repository! This project is a simple implementat
 - **Draw Condition:** Detects and displays a draw if all cells
 
 ## Screenshots:
-
-![Screenshot (492)](https://github.com/user-attachments/assets/9965f694-2eb5-45d8-91b9-605190bb8371)
-![Screenshot (491)](https://github.com/user-attachments/assets/762ac499-7f8f-406b-b47b-ae04cbfded41)
+![Screenshot (492)](https://github.com/user-attachments/assets/467b389e-8863-43a0-9ee2-a5e9e0f0022a)
+![Screenshot (491)](https://github.com/user-attachments/assets/980a3084-8039-4d47-8e81-31a56cbd8907)
